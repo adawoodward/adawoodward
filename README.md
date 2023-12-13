@@ -20,21 +20,9 @@
 
 
 
-<br>
-
-
-
-</br>
-
-
-
-
-
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/adawoodward/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 <a href="mailto:wonwoodward@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
