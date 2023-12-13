@@ -27,6 +27,10 @@
 <a href="mailto:wonwoodward@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+![Ada's github stats](https://github-readme-stats.vercel.app/api?username=adawoodward&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adawoodward&layout=compact)](https://github.com/INSERT_YOUR_HANDLE_HERE/github-readme-stats)
+
 ⭐️ From [adawoodward](https://github.com/adawoodward)
 
 <!--
